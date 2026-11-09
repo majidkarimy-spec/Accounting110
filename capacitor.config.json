@@ -1,0 +1,8 @@
+{
+  "appId": "com.armanpolymer.accounting",
+  "appName": "حسابداری",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
